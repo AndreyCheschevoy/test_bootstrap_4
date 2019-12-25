@@ -1,0 +1,29 @@
+.buttom{
+    background-color: #F7F7F7;
+}
+
+.buttom1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.mainPage{
+    margin-top: 8rem;
+    margin-bottom: 6rem;
+}
+
+.aboutClass, .speakersClass,.scheduleClass {
+    height: 3rem;
+}
+
+
+.gear-bg {
+    transition: .3s ease-out;  
+    height: 2rem;
+    width: 5rem;
+  }
+  
+.gear-bg:hover {
+    fill: #5CB85C;
+  }
+
